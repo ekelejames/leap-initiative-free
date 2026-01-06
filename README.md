@@ -1,6 +1,6 @@
 # 🚀 LEAP Initiative - DevOps/Kafka/Fullstack Practice Playground
 
-The LEAP Initiative (Learn, Execute, Automate, Perfect) is a DevOps practice playground designed to help you spin up and manage various services for hands-on learning and experimentation.
+The LEAP Initiative (Learn, Execute, Automate, Perfect) is a DevOps/Kafka/Fullstack practice playground designed to help you spin up and manage various services for hands-on learning and experimentation.
 
 
 ## Getting Started
