@@ -1,0 +1,9 @@
+services:
+  leap-initiative:
+    image: ekelejay/leap-initiative-free:latest
+    container_name: leap-initiative-free
+    ports:
+      - "3001:3000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: unless-stopped
