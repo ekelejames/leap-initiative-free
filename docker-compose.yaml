@@ -1,7 +1,7 @@
 services:
   leap-initiative:
-    image: ekelejay/leap-initiative-free:latest
-    container_name: leap-initiative-free
+    image: ekelejay/leap-initiative:latest
+    container_name: leap-initiative
     ports:
       - "3001:3000"
     volumes:
