@@ -33,6 +33,10 @@ Credentials:
 username: user1
 password: password1$$$
 
+Credentials:
+- username: `user1`
+- password: `password1$$$`
+
 ## Stopping the Application
 
 To stop all running containers:
