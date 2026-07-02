@@ -29,9 +29,6 @@ Once the containers are running, access the LEAP Initiative playground in your b
 ```bash
 http://localhost:3001
 ```
-Credentials:
-username: user1
-password: password1$$$
 
 Credentials:
 - username: `user1`
